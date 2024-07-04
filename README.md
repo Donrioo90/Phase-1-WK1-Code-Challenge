@@ -1,6 +1,6 @@
 # Phase-1-WK1-Code-Challenge
 
-**About the Code Challenge**
+**About the  Week 1 Code Challenge**
 
 This is an assignment testing us on the content we learned in phase 1 week one.
 The code challenge has been done in the below files:
@@ -43,10 +43,17 @@ Links to an external site.-  Links to an external site.Links to an external site
 
 Workflow:
 
-1. I created a repository on your GitHub account. 
-2. Every single file is holding one solution.
-3. Use JavaScript to wire down the solution.
-4. Push the solution to the above repository once done.
-5. Install the dependencies using npm install.
-6. Run the node.js tests.
-7. Read the errors; vocalize what they're asking you to do.
+. I created a repository on your GitHub account. 
+. Every single file is holding one solution.
+. Use JavaScript to wire down the solution.
+. Push the solution to the above repository once done.
+. Run the node.js tests.
+. Read the errors; vocalize what they're asking you to do.
+
+
+1. Open your terminal and go to the directory you wish to work from.
+2. Go to the following url using ur github account https://github.com/Donrioo90/Phase-1-WK1-Code-Challenge
+3. Go to the code tab and clone the ssh key
+4. Go back to the terminal and type git clone <-followed by the ssh key you copied /cloned ->
+5. Enter your new cloned repository and type in code .
+6. On the visual studio code that has now opened, go to the the run tab.
