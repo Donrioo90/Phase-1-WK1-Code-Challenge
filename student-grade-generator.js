@@ -1,6 +1,7 @@
-let studentScore = 80;
-let studentName = 'Ronnie';
+let studentScore = 110; //You can change the score to validate the code.
+let studentName = 'Ronnie';  // Student's name.
 
+    //Used 'if' and 'else if' conditional statements.
 if (studentScore >79) {
     console.log (`Congratulations, ${studentName}, you scored ${studentScore}. You got an A on this test.`);
 } else if (studentScore >= 60 && studentScore < 79) {
